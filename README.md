@@ -13,6 +13,8 @@ with American companies, and using Ruby On Rails.
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" />](https://twitter.com/ruyrocha)
 
+[![]()]()
+
 ## What Am I Looking For?
 
 I'm passionate about heavy data, good amount of daily active users, and

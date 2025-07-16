@@ -14,4 +14,3 @@ great impact on people's lives.
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" />](https://twitter.com/ruyrocha)
 
 [![]()]()
-

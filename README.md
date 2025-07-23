@@ -5,6 +5,8 @@
 >
 > — Albert Schweitzer
 
+[7/24/2009](https://github.com/ruyrocha/ping-wrapper/commit/a87c7a2df938655e5e85c453000a8a4b954334bd)
+
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=014182" />](https://www.linkedin.com/in/ruyrocha/)
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white&color=aa6fff" />](https://ruyrocha.medium.com)
